@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: alck88t05-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/alck88t05-go-gitops
